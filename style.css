@@ -1,0 +1,12 @@
+.main{
+    background-color:rgb(137, 206, 237);
+    height:100vh;
+}
+h1{
+    color:rgb(227, 34, 66);
+    font-family:"Roboto";
+}
+p{
+    color:rgb(8, 146, 70);
+    font-family:"Roboto";
+}
